@@ -16,7 +16,7 @@ This project is a responsive landing page designed for Geeks for Geeks. It was c
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/utkarshh05/geeksforgeeks-landing-page.git
+   git clone https://github.com/utkarshh05/ENCRYPTIX.git
 2. Navigate to the project directory:
     cd geeksforgeeks-landing-page
 3. Open index.html in your web browser.
@@ -46,7 +46,7 @@ This project is a functional calculator created using HTML, CSS, and JavaScript.
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/utkarshh05/javascript-calculator.git
+   git clone https://github.com/utkarshh05/ENCRYPTIX.git
 2. Navigate to the project directory:
     cd javascript-calculator
 3. Open index.html in your web browser.
@@ -75,7 +75,7 @@ This project is a tribute page dedicated to Narendra Modi, created using HTML an
 ## How to Run
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/narendra-modi-tribute-page.git
+    git clone https://github.com/utkarshh05/ENCRYPTIX.git
 2. Navigate to the project directory:
     cd narendra-modi-tribute-page
 3. Open index.html in your web browser.
